@@ -4,7 +4,7 @@ You can click the Preview link to take a look at your changes.
 --->
 ## 👋 Hey Guys
 Hi, my name is Hanze Hu, I'm a software engineer from Melbourne, Australia
-- 👀 I’m interested in Soccer, Cooking and 
+- 👀 I’m interested in Soccer, Cooking and Crypto
 - 🌱 I’m currently undertaking a Master of Computer Science at the University of Chicago
 - 📫 You can find me on [![LinkedIn][2.2]][2] or at hanzehu1998@gmail.com
 
