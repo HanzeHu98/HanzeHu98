@@ -3,13 +3,13 @@ HanzeHu98/HanzeHu98 is a ✨ special ✨ repository because its `README.md` (thi
 You can click the Preview link to take a look at your changes.
 --->
 ## 👋 Hey Guys
-Hi, my name is Hanze Hu, I'm a software engineer from Melbourne, Australia
-- 👀 I’m interested in Soccer, Cooking and Crypto
-- 🌱 I’m currently undertaking a Master of Computer Science at the University of Chicago
-- 📫 You can find me on [![LinkedIn][2.2]][2] or at hanzehu1998@gmail.com
+Hi, my name is Hanze Hu, I'm a software engineer from Melbourne, Australia! (ɐᴉlɐɹʇsn∀ ǝuɹnoqlǝW ∀ʞ∀) <br>
+👀 I’m interested in Soccer, Cooking and Crypto <br>
+🍳 [Here's](https://github.com/Anduin2017/HowToCook) an intersting guide to Cooking for programers <br>
+🌱 I’m currently undertaking a Master of Computer Science at the University of Chicago <br>
+📫 You can find me on [![LinkedIn][2.2]][2] or at hanzehu1998@gmail.com<br>
 
 ## 🔧 Technologies & Tools
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-Eclipse-informational?style=flat&logo=eclipse&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-VSC-informational?style=flat&logo=visualstudiocode&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
@@ -25,7 +25,6 @@ Hi, my name is Hanze Hu, I'm a software engineer from Melbourne, Australia
 ![](https://img.shields.io/badge/Tools-Jupyter_Notebook-informational?style=flat&logo=jupyter&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Atlassian_Toolset-informational?style=flat&logo=atlassian&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Firebase-informational?style=flat&logo=firebase&logoColor=white&color=2bbc8a)
-
 
 <!-- Actual text -->
 
