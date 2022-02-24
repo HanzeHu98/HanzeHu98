@@ -26,6 +26,11 @@ Hi, my name is Hanze Hu, I'm a software engineer from Melbourne, Australia! (ɐ�
 ![](https://img.shields.io/badge/Tools-Atlassian_Toolset-informational?style=flat&logo=atlassian&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Firebase-informational?style=flat&logo=firebase&logoColor=white&color=2bbc8a)
 
+Several repositories I've worked on are private for academic honesty reasons, please request access if you would like to view them: 😄<br>
+[An Internet Relay Chat System Implemnted in C](https://github.com/uchicago-cmsc23320-2022/chirc-p1-hanzeh-lianweicui)<br>
+[A Go Compiler implemented in Go](https://github.com/mpcs51300-aut21/proj-i_have_go_idea) (Only Implemented a subset of the full Go Language)<br>
+[An Object Oriented Design of a Mail Delivery Robot](https://github.com/HanzeHu98/SWEN30006_ProjectPartB) <br>
+[An AI that plays a customized perfect information game of Expendi Bots](https://github.com/HanzeHu98/Expendibots)<br>
 <!-- Actual text -->
 
 <!-- Icons -->
