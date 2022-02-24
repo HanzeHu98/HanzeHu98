@@ -5,7 +5,7 @@ You can click the Preview link to take a look at your changes.
 ## 👋 Hey Guys
 Hi, my name is Hanze Hu, I'm a software engineer from Melbourne, Australia! (ɐᴉlɐɹʇsn∀ ǝuɹnoqlǝW ∀ʞ∀) <br>
 👀 I’m interested in Soccer, Cooking and Crypto <br>
-🍳 [Here's](https://github.com/Anduin2017/HowToCook) an intersting guide to Cooking for programers <br>
+🍳 [Here's](https://github.com/Anduin2017/HowToCook) an intersting guide to home cooking for programers (It's in Chinese for now)<br>
 🌱 I’m currently undertaking a Master of Computer Science at the University of Chicago <br>
 📫 You can find me on [![LinkedIn][2.2]][2] or at hanzehu1998@gmail.com<br>
 
