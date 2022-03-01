@@ -28,7 +28,7 @@ Hi, my name is Hanze Hu, I'm a software engineer from Melbourne, Australia! (ɐ�
 
 Several repositories I've worked on are private for academic honesty reasons, please request access if you would like to view them: 😄<br>
 [An Internet Relay Chat System Implemnted in C](https://github.com/uchicago-cmsc23320-2022/chirc-p1-hanzeh-lianweicui)<br>
-[A Go Compiler implemented in Go](https://github.com/mpcs51300-aut21/proj-i_have_go_idea) (Only Implemented a subset of the full Go Language)<br>
+[A Go Compiler implemented in Go](https://github.com/mpcs51300-aut21/proj-i_have_go_idea) (Implemented a subset of the full Go Language)<br>
 [An Object Oriented Design of a Mail Delivery Robot Implemented in Java](https://github.com/HanzeHu98/SWEN30006_ProjectPartB) <br>
 [An AI that plays a customized perfect information game of Expendi Bots Implemented in Python](https://github.com/HanzeHu98/Expendibots)<br>
 <!-- Actual text -->
